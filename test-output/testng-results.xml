@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Positive Test case :: Verifying Status Code - 200 and 429]]>
+    </line>
+    <line>
+      <![CDATA[TC 1: Status Code : 429 : Proper Body Message is coming]]>
+    </line>
+    <line>
+      <![CDATA[Expected status Code matches Actual Status Code : 429]]>
+    </line>
+    <line>
+      <![CDATA[Test case - Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test case 2 - Failed ]]>
+    </line>
+    <line>
+      <![CDATA[Currenlty, RecordLabel Name is inherited in Band Attribute]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-02-22T02:47:50Z" name="Default suite" finished-at="2021-02-22T02:47:52Z" duration-ms="2102">
+    <groups>
+    </groups>
+    <test started-at="2021-02-22T02:47:50Z" name="Default test" finished-at="2021-02-22T02:47:52Z" duration-ms="2102">
+      <class name="BasicTestCases">
+        <test-method signature="PositiveCases()[pri:1, instance:BasicTestCases@29f69090]" started-at="2021-02-22T02:47:50Z" name="PositiveCases" finished-at="2021-02-22T02:47:52Z" duration-ms="2086" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Positive Test case :: Verifying Status Code - 200 and 429]]>
+            </line>
+            <line>
+              <![CDATA[TC 1: Status Code : 429 : Proper Body Message is coming]]>
+            </line>
+            <line>
+              <![CDATA[Expected status Code matches Actual Status Code : 429]]>
+            </line>
+            <line>
+              <![CDATA[Test case - Passed]]>
+            </line>
+            <line>
+              <![CDATA[Test case 2 - Failed ]]>
+            </line>
+            <line>
+              <![CDATA[Currenlty, RecordLabel Name is inherited in Band Attribute]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PositiveCases -->
+      </class> <!-- BasicTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
