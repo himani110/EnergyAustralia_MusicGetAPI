@@ -22,22 +22,26 @@ Use this API as is to output the format specified above in any medium you desire
 As this role is for Tester.
 I here by looking API as my testing scope.
 SCOPE : To test GET API - provided with the Swagger documentation thoroughly.
-Testing Approach:
+**Testing Approach:**
 1. We started Doing the Manual testing first.
 2. Once we got confidence in execution and understood how API is working - We started working on Automating API for future reference.
 
 **Manual Approach/Testing:**
 Tool Used : Postman , console logs, Network Logs
+
 Attached are the test cases - API_TestCases.xlsx
+
 Steps Followed:
-We created a Test Plan - Having test cases - Positive , Negative , security e.t.c
-We executed GeT API - using postman.
-We directly executed the API on browser - to check the browser compatibility and check the console and network logs.
+1. We created a Test Plan - Having test cases - Positive , Negative , security e.t.c
+2. We executed GeT API - using postman.
+3. We directly executed the API on browser - to check the browser compatibility and check the console and network logs.
 
 
 **Automation Testing:**
 Tool Used : Eclipse
+
 Language Used : Java 15, 
+
 Framework : TestNG , used Maven for Jar dependencies 
 
 
